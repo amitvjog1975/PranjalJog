@@ -3,15 +3,6 @@ require_once 'includes/template.php';
 renderHead('Academics');
 renderNavigation();
 ?>
-
-<!-- Sub-page Header -->
-<div class="subpage-header-custom">
-    <div class="container">
-        <h1>Academic Qualifications</h1>
-        <p>Educational background and professional development</p>
-    </div>
-</div>
-
 <main class="container">
     <section id="academics" class="py-5">
         <h2 class="text-center mb-4 section-heading-custom">Educational Background</h2>

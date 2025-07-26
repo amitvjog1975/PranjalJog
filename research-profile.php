@@ -3,15 +3,6 @@ require_once 'includes/template.php';
 renderHead('Research Profile');
 renderNavigation();
 ?>
-
-<!-- Sub-page Header -->
-<div class="subpage-header-custom">
-    <div class="container">
-        <h1>Research & Publications</h1>
-        <p>Scholarly contributions and research endeavors</p>
-    </div>
-</div>
-
 <main class="container">
     <section id="research" class="py-5">
         <h2 class="text-center mb-4 section-heading-custom">Research Portfolio</h2>

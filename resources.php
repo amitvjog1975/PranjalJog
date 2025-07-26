@@ -3,15 +3,6 @@ require_once 'includes/template.php';
 renderHead('Resources for Students');
 renderNavigation();
 ?>
-
-<!-- Sub-page Header -->
-<div class="subpage-header-custom">
-    <div class="container">
-        <h1>Resources for Students</h1>
-        <p>Educational materials and learning resources</p>
-    </div>
-</div>
-
 <main class="container">
     <section id="resources" class="py-5">
         <h2 class="text-center mb-4 section-heading-custom">Learning Resources</h2>

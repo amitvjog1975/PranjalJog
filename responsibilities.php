@@ -4,14 +4,6 @@ renderHead('Key Responsibilities');
 renderNavigation();
 ?>
 
-<!-- Sub-page Header -->
-<div class="subpage-header-custom">
-    <div class="container">
-        <h1>Key Responsibilities</h1>
-        <p>Roles and contributions to the academic community</p>
-    </div>
-</div>
-
 <main class="container">
     <section id="responsibilities" class="py-5">
         <h2 class="text-center mb-4 section-heading-custom">Roles & Contributions</h2>
